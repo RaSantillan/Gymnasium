@@ -1,0 +1,38 @@
+# Gymnasium Project Plan
+
+## Objectives
+Develop a user-friendly web application for tracking gym exercises. The application will analyze the collected data to identify trends and provide personalized recommendations.
+
+## Planning
+- **Phase 1**: Definition of MVP and its requirements (1 week)
+- **Phase 2**: Design and prototyping (3 weeks)
+- **Phase 3**: Development (6 weeks)
+- **Phase 4**: Testing (1 weeks)
+- **Phase 5**: Deployment (1 week)
+
+## Backlog
+1. User authentication
+2. Task creation and management
+3. Notifications
+4. Reporting and analytics
+
+## Wish List
+- **User Authentication**: Secure login and registration.
+- **Task Management**: Create, update, delete, and view tasks.
+- **Notifications**: Generic.
+- **Reporting**: Generate reports on task completion and productivity.
+- Que al colocar mi celular en un soporte de la maquina registre la informacion de mi ejercicio.- Esto puede darse por NFC.
+- Que sea facil para mi ingresar la informacion del ejercicio que acabo de hacer.
+- Que al entrar al gimnasio no me olvide de iniciar la app el registro de actividades. Que me detecte la locacion o la actividad y me sugiera empezar a registrar ejercicio
+- Que me muestra la info del ultimo peso y cuantas series hice en esa maquina
+- Que me muestre un historico del peso y series a lo largo del tiempo
+- It should have all images and information about each machine or equipment.
+- All machines/equipment are associated with refence numbers of SmartFit.
+- Each time I enter a record, it has to go to a historic.
+- I have to be able to get plots and data from the historic about my progress.
+- I must be able to enter my working weight, set, reps for each machine/equipment.
+- It should be simple to enter a record and find it.
+- Asociar los ejercicios por dia
+- Poder ingresar una fecha especifica y el ejercicio
+- Hacer la interfaz con Js, html, Css
+- Utilizar MySQL.
